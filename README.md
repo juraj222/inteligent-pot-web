@@ -1,1 +1,1 @@
-# inteligent-pot-web
+### Angular Starter Plunker - Typescript
